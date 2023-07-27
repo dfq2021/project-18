@@ -12,10 +12,11 @@ send a tx on Bitcoin testnet, and parse the tx data down to every bit, better wr
 将tx信息发送到指定网站，通过python脚本打印回复信息。
 ![image](https://github.com/jlwdfq/project-18/assets/129512207/3b26fd5d-4b22-4595-8668-d46496f202e1)
 ### 步骤2结果
+![image](https://github.com/jlwdfq/project-18/assets/129512207/c348fb48-a3ee-4c2e-a53f-b9dbb2f0164c)
 
 # 实验环境
 | 语言  | 系统      | 平台   | 处理器                     |
 |-------|-----------|--------|----------------------------|
 | Cpp   | Windows10 | pycharm| Intel(R) Core(TM)i7-11800H |
 # 小组分工
-戴方奇 202100460092 单人组完成project4
+戴方奇 202100460092 单人组完成project18
